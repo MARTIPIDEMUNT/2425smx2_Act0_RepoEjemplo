@@ -29,7 +29,7 @@ Este texto esta en *cursiva* y este también esta en _cursiva_
 ````HTML
 [Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge "Texto opcional")
 
-![descarga](https://github.com/MARTIPIDEMUNT/2425smx2_Act0_RepoEjemplo/blob/main/descarga.jpeg "Titulo")
+![](https://github.com/MARTIPIDEMUNT/2425smx2_Act0_RepoEjemplo/blob/main/descarga.jpeg "Titulo")
 
 
 
