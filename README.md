@@ -32,3 +32,4 @@ Este texto esta en *cursiva* y este también esta en _cursiva_
 ![](https://github.com/MARTIPIDEMUNT/2425smx2_Act0_RepoEjemplo/blob/main/descarga.jpeg "Titulo")
 
 
+
