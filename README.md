@@ -7,3 +7,21 @@ es un titulo un encabezado
 #### h4
 ##### h5
 ###### h6
+
+Este texto esta en **negrita** y este también esta en __negrita__
+
+Este texto esta en *cursiva* y este también esta en _cursiva_
+
+**palabra 1 _palabra2_**
+
+1. Primer elemento de la lista
+	1. Primer subelemento
+	2. Segundo subelemento
+2. Segundo elemento de la lista
+	* Sublista 2 Elemento 1
+	* Sublista 1 elemento 2
+3. Tercer elemento de la lista
+
+* Elemento 1
+- Elemento 2
++ Elemento 3
