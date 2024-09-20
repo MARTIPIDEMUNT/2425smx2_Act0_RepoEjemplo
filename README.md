@@ -27,4 +27,8 @@ Este texto esta en *cursiva* y este también esta en _cursiva_
 + Elemento 3
 
 ````HTML
-[Enlace a la web cole](https://www.fje.edu/ca/jesuites-bellvitge "Texto opcional")
+[Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge "Texto opcional")
+
+![](https://github.com/MARTIPIDEMUNT/2425smx2_Act0_RepoEjemplo/blob/main/descarga.jpeg "Titulo")
+
+
