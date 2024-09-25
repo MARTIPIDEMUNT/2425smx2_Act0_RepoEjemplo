@@ -26,11 +26,6 @@ Este texto esta en *cursiva* y este también esta en _cursiva_
 - Elemento 2
 + Elemento 3
 
-````HTML
-[Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge "Texto opcional")
-
-![iniesta](https://github.com/MARTIPIDEMUNT/2425smx2_Act0_RepoEjemplo/blob/main/descarga.jpeg "Titulo opcional de la imagen")
-
 |Columna 1 |Columna 2 | Columna 3 |
 |--------------------|:---------------------:|------------------:|
 |Col 3 es |right-aligned|$1600|
