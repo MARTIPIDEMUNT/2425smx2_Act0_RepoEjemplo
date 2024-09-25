@@ -26,6 +26,15 @@ Este texto esta en *cursiva* y este también esta en _cursiva_
 - Elemento 2
 + Elemento 3
 
+```html
+<html>
+  <head>
+  </head>
+</html>
+``` 
+
+![iniesta](https://https://github.com/MARTIPIDEMUNT/2425smx2_Act0_RepoEjemplo/blob/main/iniesta.jpeg "iniesta futbol")
+
 |Columna 1 |Columna 2 | Columna 3 |
 |--------------------|:---------------------:|------------------:|
 |Col 3 es |right-aligned|$1600|
