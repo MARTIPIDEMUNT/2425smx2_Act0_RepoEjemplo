@@ -33,7 +33,7 @@ Este texto esta en *cursiva* y este también esta en _cursiva_
 </html>
 ``` 
 
-![iniesta](https://https://github.com/MARTIPIDEMUNT/2425smx2_Act0_RepoEjemplo/blob/main/iniesta.jpeg "iniesta futbol")
+![iniesta](https://github.com/MARTIPIDEMUNT/2425smx2_Act0_RepoEjemplo/blob/main/iniesta.jpeg "iniesta futbol")
 
 |Columna 1 |Columna 2 | Columna 3 |
 |--------------------|:---------------------:|------------------:|
