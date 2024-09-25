@@ -32,7 +32,7 @@ Este texto esta en *cursiva* y este también esta en _cursiva_
 ![iniesta](https://github.com/MARTIPIDEMUNT/2425smx2_Act0_RepoEjemplo/blob/main/descarga.jpeg "Titulo opcional de la imagen")
 
 |Columna 1 |Columna 2 | Columna 3 |
-|----------------|:-------------:|---------------:|
+|--------------------|:---------------------:|------------------:|
 |Col 3 es |right-aligned|$1600|
 |Col 2 es |centered|$12|
 |zebra stripes |son limpias|$1|
